@@ -1,0 +1,25 @@
+.task-header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.task-card{
+    background-color: rgb(255, 252, 222);
+    border-radius: 15px;
+    font-family: 'Nunito', sans-serif;
+}
+
+.task-description{
+    color: rgb(111, 111, 111);
+    margin-top: 10px;
+    font-size: 15px;
+}
+.task-footer{
+    margin-top: 15px;
+}
+
+.task-time{
+    color: rgb(170, 170, 170);
+    font-size: 12px;
+    line-height: 25px;
+}
